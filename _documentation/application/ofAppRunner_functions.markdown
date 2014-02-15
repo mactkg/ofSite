@@ -506,8 +506,7 @@ _inlined_description: _
 
 
 _description: _
-
-
+This function return the target framerate which is a value can be defined using ofSetFramerate().
 
 
 
